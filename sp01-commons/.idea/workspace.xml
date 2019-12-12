@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a794241f-2920-4535-a350-c7762bc2df31" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../config" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_repository" />
+        <option name="mavenHome" value="D:/Java/software/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Java\software\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UC7xG8MJv4fuDqe1ae2iCKGS0T" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/../sp11-zuul/src/main/java/com/tedu/sp11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sp11-zuul/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tedu.sp04.order.service" />
+      <recent name="com.tedu.sp03.user.service" />
+      <recent name="com.tedu.sp02.item.service" />
+      <recent name="com.tedu.web.util" />
+      <recent name="com.tedu.sp01.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspacests\sp11-zuul\src\main\resources" />
+      <recent name="D:\workspacests\sp04-orderservice\src\main\resources" />
+      <recent name="D:\workspacests\sp03-userservice\src\main\resources" />
+      <recent name="D:\workspacests\config\config" />
+      <recent name="D:\workspacests\sp04-orderservice\src\main\java\com\tedu\sp04\order" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Sp12Config">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp02Item1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp02-itemservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tedu.sp02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tedu.sp02.Sp02ItemserviceApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=item1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp02Item2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp02-itemservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tedu.sp02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tedu.sp02.Sp02ItemserviceApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=item2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp03User" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp03-userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tedu.sp03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tedu.sp03.Sp03UserserviceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp04Order1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp04-orderservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tedu.sp04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tedu.sp04.Sp04OrderserviceApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=order1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp04Order2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp04-orderservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tedu.sp04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tedu.sp04.Sp04OrderserviceApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=order2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp05Eureka1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp05-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tedu.sp05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tedu.sp05.Sp05EurekaApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=eureka1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp05Eureka2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp05-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tedu.sp05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tedu.sp05.Sp05EurekaApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=eureka2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp08HystrixDashboard" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp08-hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tedu.sp08.Sp08HystrixDashboardApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp10Turbine" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp10-turbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tedu.sp10.Sp10TurbineApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp11Zuul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp11-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tedu.sp11.Sp11ZuulApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp12Config" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp12-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tedu.sp12.Sp12ConfigApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Sp05Eureka1" />
+      <item itemvalue="Spring Boot.Sp05Eureka2" />
+      <item itemvalue="Spring Boot.Sp02Item1" />
+      <item itemvalue="Spring Boot.Sp02Item2" />
+      <item itemvalue="Spring Boot.Sp03User" />
+      <item itemvalue="Spring Boot.Sp04Order1" />
+      <item itemvalue="Spring Boot.Sp04Order2" />
+      <item itemvalue="Spring Boot.Sp08HystrixDashboard" />
+      <item itemvalue="Spring Boot.Sp10Turbine" />
+      <item itemvalue="Spring Boot.Sp11Zuul" />
+      <item itemvalue="Spring Boot.Sp12Config" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.30868545" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Tarena\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a794241f-2920-4535-a350-c7762bc2df31" name="Default Changelist" comment="" />
+      <created>1574848967980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574848967980</updated>
+      <workItem from="1574848971192" duration="5162000" />
+      <workItem from="1574903886085" duration="4330000" />
+      <workItem from="1574925358774" duration="6149000" />
+      <workItem from="1574989305358" duration="3911000" />
+      <workItem from="1574993540082" duration="182000" />
+      <workItem from="1574993726379" duration="4347000" />
+      <workItem from="1575016670753" duration="2352000" />
+      <workItem from="1575094416525" duration="3878000" />
+      <workItem from="1575253242195" duration="9721000" />
+      <workItem from="1575336665429" duration="346000" />
+      <workItem from="1575339398498" duration="6353000" />
+      <workItem from="1575422577948" duration="404000" />
+      <workItem from="1575423072945" duration="131000" />
+      <workItem from="1575423504485" duration="7273000" />
+      <workItem from="1575515645867" duration="3787000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试动态刷新">
+      <created>1575427870163</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575427870163</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试动态刷新">
+      <created>1575427997624</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575427997624</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bus">
+      <created>1575450698231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575450698231</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bus">
+      <created>1575450854344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575450854344</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试动态刷新" />
+    <MESSAGE value="bus" />
+    <option name="LAST_COMMIT_MESSAGE" value="bus" />
+  </component>
+</project>
